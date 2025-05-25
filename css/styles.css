@@ -230,3 +230,13 @@ input[type="submit"]:hover {
 .resume-btn:hover {
 	background-color: #2980b9;
 }
+
+#github-profile {
+	text-align: center;
+	background-color: #f0fff4; /* very light green */
+	padding: 40px;
+	border-radius: 12px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+	margin: 20px auto;
+	max-width: 800px;
+}
